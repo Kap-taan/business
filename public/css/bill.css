@@ -1,0 +1,19 @@
+.intro {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  width: 600px;
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  /* border: 2px solid red; */
+  font-family: 'Nunito', sans-serif;
+}
+
+.intro img {
+  width: 100px;
+}
+
+.intro h1 { 
+  margin-left: 100px;
+}
